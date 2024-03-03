@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,order.luckydogsoft.com
+DOMAIN,v3.paddleapi.com
