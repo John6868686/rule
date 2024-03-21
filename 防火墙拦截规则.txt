@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,order.luckydogsoft.com
-DOMAIN,v3.paddleapi.com
+# DOMAIN,v3.paddleapi.com
 DOMAIN,dkys.org
 DOMAIN,youtusoft.com
 DOMAIN,hostbuf.com
